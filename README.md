@@ -28,9 +28,32 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
 ---
 ## **Personagens**
  ![Odisvaldo Cruz](personagens.gif)  
-  - Doutor Odisvaldo Cruz 
+ -
+ - ### **Doutor Odisvaldo Cruz** - Graduado em Biologia, Mestre em Microbilogia ambos pela Universidade Federal da Bahia. Doutor em Genética Molecular e de Micro - organismos pela Harvard University.
+ - ### **Doutora Alessya Bonay** - Graduada em Medicina pela Universidade Federal do Rio de Janeiro. Mestre em Microbiologia pela Universidade do Estado do Rio de Jneiro. Doutora em Ciências Biométicas pela Stanford University.
+ - ### **Doutor Nelson Tati** - Graduado em Medicina pela Universidade Federal do Acre. Mestre e Doutor em Ciências Biomédicas pela University of Portsmouth.
+ ---
+ # Locais 
+ - ## Interior do Acre 
+ - ## Mata Amazônica
+ - ## Interior da Bahia
+ - ## EUA
+ - ## Nascente em Petrópolis
 
-
+---
+# Condições de Vitória
+### O Jogo Alligator Apokalips é uma paródia do cenário atual Brasileiro. Precisará ficar atento que fazer Lockdown, investir em Pesquisa/Educação procurar as fontes de cura são essenciais para vencer o jogo.
+- ### **Para Vencer:**  
+    - Lockdown , Investir em Pesquisa Nacional e Planta Empatia no Interior do Acre.
+    - Lockdow , Investir em Pesquisa Nascional e água da Nascente em Petrópolis.
+---
+# Condições de Derrota
+- **Para Perder:**  
+  - Não fazer Lockdown
+  - Não investir em Pesquisa
+  - Pedir ajuda ao EUA
+  - Não coletar a Planta Empatia
+  - Não coletar a Água da Nascente Esperança
 
 
 
