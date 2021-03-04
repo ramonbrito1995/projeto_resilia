@@ -27,7 +27,7 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
 
 ---
 ## **Personagens**
- ![Odisvaldo Cruz](Odisvaldo Cruz(2).gif)  
+ ![Odisvaldo Cruz](personagens.gif)  
   - Doutor Odisvaldo Cruz 
 
 
