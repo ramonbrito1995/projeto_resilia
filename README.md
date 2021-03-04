@@ -63,5 +63,6 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
 - https://www.patorjk.com/software/taag/#p=display&f=Ogre&t=ramon%20pika%20das%20galaxia
 
 
+![kuka](kuka.gif) 
 
-
+### Obrigado e Bye bye !! :stuck_out_tongue_winking_eye: :punch: :laughing: 
