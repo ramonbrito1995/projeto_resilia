@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![](capa.jpg)
+![](capinha.jpg)
 
 </div>
 
