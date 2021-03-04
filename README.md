@@ -1,4 +1,5 @@
-
+# Projeto Final- Módulo 1
+### Jogo desenvolvido como Projeto Final do Módulo 1 - Introdução ao Python do curso vamo AI, *parceria entre o iFood e a Resilia Educação*.
 
 <div align="center">
 
@@ -41,13 +42,13 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
  - ## Nascente em Petrópolis
 
 ---
-# Condições de Vitória
+# Condições de Vitória:trophy: 
 ### O Jogo Alligator Apokalips é uma paródia do cenário atual Brasileiro. Precisará ficar atento que fazer Lockdown, investir em Pesquisa/Educação procurar as fontes de cura são essenciais para vencer o jogo.
 - ### **Para Vencer:**  
     - Lockdown , Investir em Pesquisa Nacional e Planta Empatia no Interior do Acre.
     - Lockdow , Investir em Pesquisa Nascional e água da Nascente em Petrópolis.
 ---
-# Condições de Derrota
+# Condições de Derrota:skull_crossbones: 
 - **Para Perder:**  
   - Não fazer Lockdown
   - Não investir em Pesquisa
@@ -55,7 +56,8 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
   - Não coletar a Planta Empatia
   - Não coletar a Água da Nascente Esperança
 
-
+---
+## Créditos finais
 
 
 
