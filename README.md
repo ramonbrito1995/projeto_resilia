@@ -57,7 +57,11 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
   - Não coletar a Água da Nascente Esperança
 
 ---
-## Créditos finais
+## Créditos finais:
+### Fontes:
+- https://fsymbols.com/pt/arte-de-texto/
+- https://www.patorjk.com/software/taag/#p=display&f=Ogre&t=ramon%20pika%20das%20galaxia
+
 
 
 
