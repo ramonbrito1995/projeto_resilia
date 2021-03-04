@@ -6,9 +6,11 @@
 
 </div>
 
+
 <div align="center">
 
 ![](capa.jpg)
+
 </div>
 
 ### Projeto Final de Módulo 1 do curso VAMO AI, parceria entre *Ifood e Resilia Educação*.
