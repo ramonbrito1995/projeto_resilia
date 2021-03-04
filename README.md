@@ -22,7 +22,7 @@ Tudo começou em fevereiro de 2020, quando médicos brasileiros descobrem que um
 O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas poderão lhe tornar um herói ou heroína.
 <div align="center">
 
-![Markdown](jacaré.jpg)
+![Markdown](jacare.jpg)
 
 ---
 
