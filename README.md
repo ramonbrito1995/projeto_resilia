@@ -48,7 +48,7 @@ O Vírus está se espalhando pelo Brasil, mas você poderá deter. Suas escolhas
     - Lockdown , Investir em Pesquisa Nacional e Planta Empatia no Interior do Acre.
     - Lockdow , Investir em Pesquisa Nascional e água da Nascente em Petrópolis.
 ---
-# Condições de Derrota :skull_crossbones:  
+# Condições de Derrota :skull:   
 - **Para Perder:**  
   - Não fazer Lockdown
   - Não investir em Pesquisa
