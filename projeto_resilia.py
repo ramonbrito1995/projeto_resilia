@@ -164,7 +164,7 @@ def passo_1(y):
          if pergunta_3 == '1' or pergunta_3 =='2':
              break
          else:
-             print("Valor inválido. Por favor, digite novamente.\n")
+             print("\nValor inválido. Por favor, digite novamente.\n")
              pergunta_3 = input(
                  
                     "\nSurge um estudo que na mata Amazônica há uma planta chamada Xirus que pode ser a cura."
@@ -304,7 +304,7 @@ def passo_1(y):
 def acao_1():
     pergunta_1 = input(
                      "\nQual o próximo passo?"
-                     "\n1 - Obrigar a todos os Estados façam Lockdown por 20 dias e preparar uma equipe p/ que estude vírus" "e busque a cura?"
+                     "\n1 - Obrigar a todos os Estados façam Lockdown por 20 dias e preparar uma equipe para que estude vírus e busque a cura?"
                      "\n2 - Não fazer Lockdown e preparar uma equipe para que se estude sobre o vírus e busque a cura.\n:"
                      )
     while True:
@@ -320,7 +320,7 @@ def acao_1():
     print("\nVocê viajou até o RJ onde está o Centro de pesquisa do estudo da Jacaris2020.\n")
 
     pergunta_2 = input(
-                            "\nO pesquisador Átila Tamarindo informou que os estudos estão avançando, mas que precisaria de mais investimento."
+                        "\nO pesquisador Átila Tamarindo informou que os estudos estão avançando, mas que precisaria de mais investimento."
                         "\nO que você diz?"
                         "\n1-Ok, investirei 4 bilhoes."
                         "\n2- Não temos como investir, precisamos encontrar parceiros.\n:")
@@ -330,7 +330,7 @@ def acao_1():
         else:
             print("\nValor inválido!\n")
             pergunta_2 = input(
-                            "\nO pesquisador Átila Tamarindo informou que os estudos estão avançando, mas que precisaria de mais investimento."
+                        "\nO pesquisador Átila Tamarindo informou que os estudos estão avançando, mas que precisaria de mais investimento."
                         "\nO que você diz?"
                         "\n1-Ok, investirei 4 bilhoes."
                         "\n2- Não temos como investir, precisamos encontrar parceiros.\n:")
@@ -423,7 +423,7 @@ def criar(x):
                 print("\nVocê perdeu.\n\n")
                 gameover()
             elif pergunta_6 =='1' and x == '2':
-                print("\nVocê achou a cura, mas o vir se espalhou!")
+                print("\nVocê achou a cura, mas o vírus se espalhou!")
                 print("\nVocê virou jacaré!")
                 print("\nVocê perdeu!\n\n")
                 gameover()
@@ -462,7 +462,7 @@ def criar(x):
                 print("\nVocê perdeu.\n\n")
                 gameover()
             elif pergunta_6 =='1' and x == '2':
-                print("\nVocê achou a cura, mas o virou se espalhou!")
+                print("\nVocê achou a cura, mas o vírus se espalhou!")
                 print("\nVocê virou jacaré!")
                 print("\nVocê perdeu!\n\n")
                 gameover()
@@ -574,7 +574,7 @@ def iniciar():
             escolha = input(
                     "\nDigite o número correspondente do personagem que você quer:"
                     "\n1 - Dr. Odisvaldo Cruz - Graduado em Biologia, Mestre em Microbilogia ambos pela Universidade Federal da Bahia. Doutor em Genética Molecular e de Micro - organismos por Harvard.\n"
-                    "\n2 - Dra. Alessya Bonay -  Graduada em Medicina pela Universidade Federal do Rio de Janeiro. Mestre em Microbiologia pela Universidade do Estado do Rio de Jneiro. Doutora em Ciências Biométicas pela Stanford  University.\n"
+                    "\n2 - Dra. Alessya Bonay -  Graduada em Medicina pela Universidade Federal do Rio de Janeiro. Mestre em Microbiologia pela Universidade do Estado do Rio de Janeiro. Doutora em Ciências Biométicas pela Stanford  University.\n"
                     "\n3 - Dr. Nelson Tati - Graduado em Medicina pela Universidade Federal do Acre. Mestre e Doutor em Ciências Biomédicas pela University of Portsmouth.\n:"
                     )
     
